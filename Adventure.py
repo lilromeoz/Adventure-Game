@@ -1,3 +1,7 @@
+# PLEASE GIVE FEEDBACK
+# Add new things as you see fit
+# Also I would love to try to add graphics to this. But sadly I am on a mac and cannot use pygame.
+
 import random
 import time
 
